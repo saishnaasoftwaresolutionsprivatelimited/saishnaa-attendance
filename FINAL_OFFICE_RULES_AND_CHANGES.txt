@@ -1,0 +1,45 @@
+SAISHNAA ATTENDANCE SYSTEM - FINAL OFFICE RULES
+
+Office timing: 09:40 AM to 05:40 PM
+Working hours: 8 hours
+Lunch break: 30 minutes
+Weekly off: Sunday
+Late window: 09:41 AM to 10:10 AM
+Monthly late allowance: 2
+Monthly 1-hour permission: 1 (available after the two monthly late allowances are used)
+Casual Leave: 1 CL credited monthly; unused CL carries forward without expiry
+Marriage Leave: 10 days
+Approved OD: Paid working day
+Paid leave: Paid day
+Unpaid leave/LOP: Unpaid day
+Holiday: Paid day
+Sunday: Paid day
+Absent past working day: Full-day salary deduction
+Half-Day LOP: 50% salary deduction
+Attendance correction: Check-In / Check-Out / Both and applicable leave issues; request must be submitted within the next day and approved
+Future dates: Not included in salary earnings, deductions or projections
+Overtime: Removed from attendance/payroll calculation
+Allowed late: No direct salary deduction; escalation follows company attendance rules
+
+ATTENDANCE LOCATION / DEVICE RULE
+Check-In and Check-Out only:
+- Office coordinates: 11.322962, 77.685142
+- Current allowed radius: 1000 metres (Admin can change this in Company Settings)
+- Desktop/laptop browser required
+- Browser location permission required
+- Backend verifies the submitted location as well
+
+All other system features can be accessed from any location/device subject to login and role permissions.
+
+CENTRAL ADMIN SETTINGS
+Admin Company Settings is the common source for office timing, working hours, lunch break, weekly off and attendance office location. Holiday changes are stored centrally in the database. HR and Employee screens use the same shared data.
+
+SIMPLIFIED USER-FACING WORDING
+Examples changed:
+Executive Oversight -> Administration
+Financial Governance -> Salary & Payroll
+Operational Escalations -> Requests & Approvals
+Live Workforce Telemetry -> Live Attendance
+Workforce Operations Dashboard -> Admin Dashboard
+Payroll & Disbursement -> Payroll & Payments
+Geofence -> Office Location (user-facing wording)
